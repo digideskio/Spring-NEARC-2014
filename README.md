@@ -25,7 +25,7 @@ Links and slides for Spring NEARC 2014 presentation.
 - Add/update files
 - Commit
 - Syncing to remote (push)
-- [Diffs](https://github.com/cambridgegis/cambridgegis_data/commit/2abb1adb548930e8151843acea8e22164baa675c "Diffs")
+- [Showing diffs](https://github.com/cambridgegis/cambridgegis_data_landmark/commit/f413c16cf2d6be9d6361b8dc3603402e7cb79ed0 "Showing diffs")
 - [Esri2Open](https://github.com/project-open-data/esri2open "Esri2Open")
 	- Michael Byrne, Consumer Finance Protection Bureau
 	- Calvin Metcalf, AppGeo (formerly MassDOT)
