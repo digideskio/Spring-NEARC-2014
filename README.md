@@ -18,7 +18,7 @@ Links and slides for Spring NEARC 2014 presentation.
 - Syncing remote
 - Sub-repos
 - Diffs
-- Esri2Open & ArcPy
+- [Esri2Open](https://github.com/project-open-data/esri2open "Esri2Open") & ArcPy
 
 ## Useful Links ##
 - [GitHub for Windows](https://windows.github.com/ "GitHub for Windows")
