@@ -21,5 +21,6 @@ Links and slides for Spring NEARC 2014 presentation.
 - [Esri2Open](https://github.com/project-open-data/esri2open "Esri2Open") & ArcPy
 
 ## Useful Links ##
+- [GitHub Hello World Guide](https://github.com/blog/1830-hello-world-guide "GitHub Hello World Guide")
 - [GitHub for Windows](https://windows.github.com/ "GitHub for Windows")
 - [Git & GitHub Resources](http://git.io/6A8I4w)
